@@ -10,3 +10,17 @@ const student = {
 
 };
 
+student ['age'] = student ['age'] + 2
+
+document.write (student['age']);
+
+// let a= "bcue";
+// a = "hudhu"
+// alert (a);
+
+
+
+student ['fullName'] = student ['fullName'] + 43 ;
+
+// student ['fullName'] ;
+// document.write  (student['fullName']);
