@@ -18,6 +18,7 @@ document.write (student['age']);
 // a = "hudhu"
 // alert (a);
 
+ 
 
 
 student ['fullName'] = student ['fullName'] + 43 ;
