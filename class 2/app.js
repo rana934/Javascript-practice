@@ -34,3 +34,4 @@ document.write(name)
 
 
 typeof name
+
