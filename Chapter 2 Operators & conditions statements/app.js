@@ -226,4 +226,29 @@
      console.log("S **=", S);
      console.log(S **= 5);
 
+
+     //(">>>==============<<<");
+    //  "Comparission Operator" 
+    //(">>>===============<<<");
+
+
+    console.log(">>>================<<<");
+    console.log("Comparission Operator '='") 
+    console.log(">>>================<<<");
+
+    T = 5;
+    U = 10
+    console.log ("T =", T);
+    console.log ("U =", U);
+
+
+    console.log ("T == U ?");
+    console.log (T == U);
+
+    console.log ("Not Equals To '!='");
+
+    console.log ("T != U");
+    console.log (T != U);
+
+
 }
